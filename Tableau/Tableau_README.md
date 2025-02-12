@@ -6,9 +6,9 @@
 
 a.Measures
 - Champion name
-- MyID
+- MyID: 1 is my champion. 0 are others.
 - TeamID
-- Teammates
+- Teammates: Identify teammates. 1 as teammates, 0 as enemy.
 - WIN(Boolean)
 
 b.Dimension
