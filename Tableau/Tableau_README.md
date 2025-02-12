@@ -26,8 +26,8 @@ b.Dimension
 
 **C.Dashboards**
 
-a. Game
-Performance by each game. The charts show the percentage of damage each champion deals to enemies within your team. This is useful to see how you played with each champion compared to other players. Take a look at the percentage dealt to champions compared to other players. Is it higher or lower?
+### **a. Game Performance by each game.**  
+The charts show the percentage of damage each champion deals to enemies within your team. This is useful to see how you played with each champion compared to other players. Take a look at the percentage dealt to champions compared to other players. Is it higher or lower?
 
 * Filter - False: Shows every game I played.
 ![image](https://github.com/user-attachments/assets/5aae7bca-c307-47da-9b46-e3a1730e07fc)
